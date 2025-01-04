@@ -26,9 +26,6 @@ npm start
 ## Contributing 🤝
 Contributions are welcome! Please read the contributing guidelines for more details.
 
-## License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact 📧
 For any questions or suggestions, feel free to open an issue. 
 
