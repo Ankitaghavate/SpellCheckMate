@@ -15,21 +15,20 @@ To install SpellCheckMate, follow these steps:
    ```bash
    git clone https://github.com/Ankitaghavate/SpellCheckMate.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
 cd SpellCheckMate
-Install the dependencies:
+# Install the dependencies:
 npm install
-Usage 🚀
+# Usage 🚀
 To start using SpellCheckMate, run the following command:
 
 npm start
-Contributing 🤝
+# Contributing 🤝
 Contributions are welcome! Please read the contributing guidelines for more details.
 
-License 📄
+# License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact 📧
-For any questions or suggestions, feel free to open an issue or contact the repository owner.
+# Contact 📧
+For any questions or suggestions, feel free to open an issue. 
 
-You can copy and paste this code into your `README.md` file.
